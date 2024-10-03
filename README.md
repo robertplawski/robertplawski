@@ -1,4 +1,5 @@
-## Hi there 👋
+## 📊 Statistics about my profile!
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact)
 <!--
 **robertplawski/robertplawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
