@@ -1,6 +1,10 @@
 
 ![Github-Mark-Dark](https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=dark)
 ![Github-Mark-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=dark)
+
+
+![Github-Mark-Light](https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=light)
+![Github-Mark-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=light)
 <!--
 **robertplawski/robertplawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
