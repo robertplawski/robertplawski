@@ -1,10 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=dark">
+  <img alt="General user statistics" src="https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=dark">
+  <img alt="Lanugage user statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=light">
+</picture>
 
-![Github-Stats-General-Dark](https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=dark#gh-dark-mode-only)
-![Github-Stats-Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=dark#gh-dark-mode-only)
-
-
-![Github-Stats-General-Light](https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=light#gh-light-mode-only)
-![Github-Stats-Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=light#gh-light-mode-only)
 <!--
 **robertplawski/robertplawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
