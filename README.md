@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=dark">
-  <img alt="General user statistics" src="https://github-readme-stats.vercel.app/api?username=robertplawski&count_private=true&show_icons=true&hide=contribs&theme=light">
-</picture>
-<picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=dark">
   <img alt="Lanugage user statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=light">
 </picture>
