@@ -1,4 +1,4 @@
-
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=dark">
   <img alt="Lanugage user statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertplawski&layout=compact&theme=light">
 </picture>
